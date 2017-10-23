@@ -10,7 +10,8 @@
     "react-scripts": "1.0.14",
     "react-sparklines": "^1.7.0",
     "redux": "^3.7.2",
-    "redux-promise": "^0.5.3"
+    "redux-promise": "^0.5.3",
+    "lodash": "latest"
   },
   "scripts": {
     "start": "react-scripts start",
